@@ -16,8 +16,8 @@ addActionCreators(actionsCreators)
 ```
 
 And in all you components that use redux state 
-```jsx
-import { addActionCreators } from 'react-redux-connectme'
+```javascript
+import connect from 'react-redux-connectme'
 
 class App extends Component {
 
