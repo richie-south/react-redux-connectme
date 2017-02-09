@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-connect",
+  "name": "react-redux-connectme",
   "version": "1.0.0",
   "description": "connect react component with redux",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rs222kn/react-redux-connect.git"
+    "url": "git+https://github.com/rs222kn/react-redux-connectme.git"
   },
   "keywords": [
     "react",
@@ -19,9 +19,9 @@
   "author": "richard söderman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rs222kn/react-redux-connect/issues"
+    "url": "https://github.com/rs222kn/react-redux-connectme/issues"
   },
-  "homepage": "https://github.com/rs222kn/react-redux-connect#readme",
+  "homepage": "https://github.com/rs222kn/react-redux-connectme#readme",
   "devDependencies": {
     "eslint": "^3.15.0"
   },
