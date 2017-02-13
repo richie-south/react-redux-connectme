@@ -2,7 +2,7 @@
   "name": "react-redux-connectme",
   "version": "1.0.1",
   "description": "connect react component with redux",
-  "main": "app.js",
+  "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
