@@ -1,4 +1,4 @@
-# react-redux-connectme
+# react-redux-connectme [![npm version](https://badge.fury.io/js/react-redux-connectme.svg)](https://badge.fury.io/js/react-redux-connectme)
 
 
 ## How to use 
